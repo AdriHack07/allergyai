@@ -1,0 +1,1 @@
+# AllergyAI - Claude Code Instructions
